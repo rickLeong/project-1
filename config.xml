@@ -1,0 +1,5 @@
+<widgetid="com.example.hello"version="0.0.1"><name>HelloWorld</name><description>
+            A sample Apache Cordova application that responds to the deviceready event.
+        </description><authoremail="dev@callback.apache.org"href="http://cordova.io">
+            Apache Cordova Team
+        </author><contentsrc="index.html" /><accessorigin="*" /></widget>
